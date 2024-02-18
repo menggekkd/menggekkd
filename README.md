@@ -3,9 +3,9 @@ MengGeKKD233/MengGeKKD233 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <h1> 关于萌哥坑坑哒 / About MengGe_KKD </h1>
-<body>萌哥是一位画师、YouTuber、游戏玩家、建模爱好者。 </br> 我喜欢学习一些我觉得好玩的东西。</body>
+<body>萌哥是一位画师、YouTuber、游戏玩家、3D建模人。 </br> 我喜欢学习一些我觉得好玩的东西。</body>
 </br>
-<body>MengGe_KKD is an artist, YouTuber, gamer, 3D modeling enthusiast. </br> I enjoy learning things that I find fun.</body>
+<body>MengGe_KKD is an artist, YouTuber, gamer, 3D artist. </br> I enjoy learning things that I find fun.</body>
 </br>
 <hr>
 <body> 主页 / Homepage: <link> https://menggekkd.carrd.co </link> </body>
