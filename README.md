@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1> 关于萌哥坑坑哒 / About MengGe_KKD </h1>
 <img src="https://64.media.tumblr.com/5f77ffed067e053d535b556f4a784e11/c2552724a117b8ce-74/s1280x1920/c0083560245d1bc93a46119523736d16fb0611cf.pnj" alt="萌哥坑坑哒 / MengGe_KKD" title="萌哥坑坑哒 / MengGe_KKD" />
-<body>萌哥是一位画师、YouTuber、游戏玩家、3D建模人。 </br> 我喜欢学习一些我觉得好玩的东西。</body>
+<body>萌哥是一位画师、3D建模人、YouTuber、游戏玩家。 </br> 我喜欢学习一些我觉得好玩的东西。</body>
 </br>
-<body>MengGe_KKD is an artist, YouTuber, gamer, 3D artist. </br> I enjoy learning things that I find fun.</body>
+<body>MengGe_KKD is an 2D&3D artist, YouTuber, gamer. </br> I enjoy learning things that I find fun.</body>
 </br>
 <hr>
 <body> 主页 / Homepage: <link> https://menggekkd.carrd.co </link> </body>
