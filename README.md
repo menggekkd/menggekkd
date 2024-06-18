@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <body>MengGe_KKD is a 2D&3D artist, YouTuber. </br> I enjoy learning things that I find fun.</body>
 </br>
 <hr>
-<body> 主页 / Homepage: <link> https://menggekkd.carrd.co </link> </body>
+<body> Website: <link> https://menggekkd.wordpress.com </link> </body>
 </br>
 <hr>
 <body> 我现在还是个在慢慢学习的编程萌新，请多多指教，我很乐意和你一起交流这些知识哦！ </br> I'm still a beginner in programming, I'm very willing to exchange knowledge with you in this area! </body>
