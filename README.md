@@ -16,6 +16,3 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <body> 这是我第一次使用HTML来写这个介绍，还不太熟练，还请谅解！(＞人＜;) </br> This is my first time using HTML to write this self-introduction, so I'm not very proficient yet. Please forgive me! (＞人＜;) </body>
 </br>
-<hr>
-<h2><a href="https://pixiv.net/artworks/119965119">Mesmerizer</a></h2>
-<a href="https://pixiv.net/artworks/119965119"><img src="https://menggekkd.wordpress.com/wp-content/uploads/2024/06/e383a1e382bae3839ee383a9e382a4e382b6e383bc_1-1efbc88e6b0b4e58db0efbc89.png" title="Mesmerizer" /></a>
