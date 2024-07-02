@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 </br>
 <hr>
 <h2><a href="https://pixiv.net/artworks/117456277">你喜欢猫猫吗？/ Do you like cats?</a></h2>
-<a href="https://pixiv.net/artworks/117456277"><img src="https://cdna.artstation.com/p/assets/images/images/074/385/178/large/mengge_kkd-mask-groupso.jpg?1711965369" alt="猫猫萌汐 / Cat MengXi" title="猫猫萌汐 / Cat MengXi" /></a>
+<a href="https://pixiv.net/artworks/117456277"><img src="https://cdn.cara.app/production/posts/a19bc61b-5c76-462b-9f5b-648533031dc7/menggekkd-s8LnLEdxJg_6MC1x0tMyK-Mask-groupSO.png" alt="猫猫萌汐 / Cat MengXi" title="猫猫萌汐 / Cat MengXi" /></a>
