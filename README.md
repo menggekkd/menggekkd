@@ -5,8 +5,6 @@ You can click the Preview link to take a look at your changes.
 <h1> 关于萌哥坑坑哒 / About MengGe_KKD </h1>
 <body>Hey! I'm MengGe, a 2D&3D artist, YouTuber.</body>
 </br>
-<body>You can call me 萌哥 or Cian.</body>
-</br>
 <hr>
 <body>I’ll upload my video to my <a href="https://youtube.com/@MengGe_KKD">YouTube</a> and <a href="https://space.bilibili.com/110871903">Bilibili</a>.</body>
 </br>
