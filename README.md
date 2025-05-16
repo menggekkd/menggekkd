@@ -20,7 +20,7 @@ This is my [Patreon](https://patreon.com/MengGe_KKD), you can support MengGe.
 
 ---
 
-Website: https://menggekkd.wordpress.com
+Website: https://menggekkd.me
 
 ---
 
