@@ -24,9 +24,5 @@ Website: https://menggekkd.me
 
 ---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E1OR07H)
-
----
-
 ### Death Stranding Miku
 [![Death_Stranding_Miku](https://menggekkd.wordpress.com/wp-content/uploads/2025/05/deathstrandingmiku_1_1.png?strip=info&w=2000)](https://www.pixiv.net/artworks/130031009)
