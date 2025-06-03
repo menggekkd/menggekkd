@@ -6,8 +6,6 @@ You can click the Preview link to take a look at your changes.
 
 Hey! I'm MengGe, a 2D&3D artist, YouTuber.
 
-[![My Skills](https://skillicons.dev/icons?i=blender,md,unity,unreal,ps,ai,ae)](https://skillicons.dev)
-
 ---
 
 I’ll upload my video to my [YouTube](https://youtube.com/@MengGe_KKD) and [Bilibili](https://space.bilibili.com/110871903).
