@@ -8,7 +8,7 @@ Hey! I'm MengGe, a 2D&3D artist.
 
 ---
 
-I’ll upload my video to my [YouTube](https://youtube.com/@MengGe_KKD) and [Bilibili](https://space.bilibili.com/110871903).
+I’ll upload my video to my [Bilibili](https://space.bilibili.com/110871903) and [YouTube](https://youtube.com/@MengGe_KKD).
 
 My illustrations on my [Pixiv](https://pixiv.net/users/70363431), and my 3D work on my [ArtStation](https://artstation.com/mengge_kkd).
 
