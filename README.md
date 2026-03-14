@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 关于萌哥坑坑哒 / About MengGe_KKD
 
-Hey! I'm MengGe, a 2D&3D artist, YouTuber.
+Hey! I'm MengGe, a 2D&3D artist.
 
 ---
 
