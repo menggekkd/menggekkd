@@ -19,4 +19,4 @@ Website: https://menggekkd.me
 ---
 
 ### Miku~ Miku~
-[![Warmth From Miku](https://cdna.artstation.com/p/assets/images/images/096/454/318/large/-warmthfrommiku-2.webp?1771379688)](https://www.pixiv.net/artworks/141324131)
+[<img width="1500" height="500" alt="Header" src="https://github.com/user-attachments/assets/c668871c-0d8b-45ef-8b5e-6daae424505c" />](https://www.pixiv.net/artworks/141324131)
