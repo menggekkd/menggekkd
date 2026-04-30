@@ -14,13 +14,9 @@ My illustrations on my [Pixiv](https://pixiv.net/users/70363431), and my 3D work
 
 ---
 
-This is my [Patreon](https://patreon.com/MengGe_KKD), you can support MengGe.
-
----
-
 Website: https://menggekkd.me
 
 ---
 
-### Death Stranding Miku
-[![Death_Stranding_Miku](https://menggekkd.wordpress.com/wp-content/uploads/2025/05/deathstrandingmiku_1_1.png?strip=info&w=2000)](https://www.pixiv.net/artworks/130031009)
+### Miku~ Miku~
+[![Warmth From Miku](https://cdna.artstation.com/p/assets/images/images/096/454/318/large/-warmthfrommiku-2.webp?1771379688)](https://www.pixiv.net/artworks/141324131)
