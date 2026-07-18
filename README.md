@@ -19,7 +19,8 @@ Website: https://menggekkd.me
 ---
 
 ### Miku~ Miku~
-[<img width="1600" height="400" alt="GItHub_Header" src="https://github.com/user-attachments/assets/ab311e44-6e30-459c-97e6-c44f14e605a5" />](https://www.pixiv.net/artworks/141324131)
+[<img width="1600" height="400" alt="GItHub_Header" src="https://github.com/user-attachments/assets/525f9d8d-b407-4b2f-811d-b1054234dd81" />](https://www.pixiv.net/artworks/141324131)
+
 
 ---
 
